@@ -1,1 +1,1 @@
-- Sample Answers of homeworks in [CS188](https://inst.eecs.berkeley.edu/~cs188/sp19/projects.html)
+- Sample Answers of homework in [CS188 course](https://inst.eecs.berkeley.edu/~cs188/sp19/projects.html)
